@@ -25,19 +25,19 @@ table {
 
 .fonte-descricao {
     color: #cccccc;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .estilo-texto {
     color: #cccccc;
-    font-size: 18px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .fonte-segundaria {
     color: #cccccc;
-    font-size: 30px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
