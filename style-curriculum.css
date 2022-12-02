@@ -41,3 +41,9 @@ table {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+.fonte-segundaria2 {
+    color:black;
+    font-size: 35px;
+    background: #cccccc;
+}
