@@ -12,6 +12,11 @@ table {
 
 }
 
+.margem-foto {
+    width: 150px;
+    height: 150px;
+}
+
 .dimensao-dados {
     padding: 0 30px;
 }
