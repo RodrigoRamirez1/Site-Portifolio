@@ -57,3 +57,7 @@ table {
 .dimensao {
     height: 0px;
 }
+
+.margem-dados {
+    padding: 0 200px;
+}
