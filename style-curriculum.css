@@ -13,8 +13,9 @@ table {
 }
 
 .margem-foto {
-    width: 150px;
-    height: 150px;
+    width: 30vw;
+    height: 30vw;
+    margin-top: -12vw;
 }
 
 .dimensao-dados {
