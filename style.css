@@ -1,6 +1,10 @@
+html {
+    background: linear-gradient( #125058, #f1f2b5);
+}
+
 header {
-    background: #6b6767;
     padding: 20px 0;
+
 }
 
 .caixa {
@@ -37,9 +41,8 @@ header {
     margin-bottom: 5px;
 }
 
-main {
-    background: #008080;
-}
+
+
 .imagens {
     width: 940px;
     margin: 0 auto;
@@ -84,7 +87,6 @@ li:hover h2 {
 
 footer {
     text-align: center;
-    background:#ffee00;
     bottom: 0;
     width: 100%;
     height: 150px;
