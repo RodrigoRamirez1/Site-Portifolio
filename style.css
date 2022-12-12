@@ -79,6 +79,7 @@ nav a {
     font-weight: bold;
     font-family: Arial;
     margin-top: 10px;
+    transition: 1s all;
 }
 
 li:hover h2 {
