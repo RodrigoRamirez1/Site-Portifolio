@@ -1,5 +1,6 @@
 html {
     background: linear-gradient(#125058, #f1f2b5);
+    height: 120%;
 }
 
 header {
@@ -24,7 +25,6 @@ header {
     box-sizing: border-box;
     border-radius: 20px;
     margin: 20px ;
-    box-shadow: 8px 8px 3px #125058;
 }
 
 .fonte {
